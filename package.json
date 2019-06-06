@@ -22,10 +22,17 @@
     "@angular/router": "^6.0.3",
     "adm-zip": "^0.4.11",
     "core-js": "^2.5.4",
+    "fstream": "^1.0.12",
+    "handlebars": "^4.1.2",
     "hoek": "^5.0.4",
+    "js-yaml": "^3.13.1",
+    "lodash": "^4.17.11",
     "parsejson": "0.0.3",
     "rxjs": "^6.0.0",
+    "tar": "^4.4.10",
     "url-parse": "^1.4.3",
+    "webpack-dev-server": "^3.6.0",
+    "ws": "^7.0.0",
     "zone.js": "^0.8.26"
   },
   "devDependencies": {
